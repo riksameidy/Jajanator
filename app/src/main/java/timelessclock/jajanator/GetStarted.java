@@ -52,7 +52,7 @@ public class GetStarted extends AppCompatActivity {
 
     private void testGit(){
         int i;
-        i = 9;
+        i = 95;
 
     }
 }
