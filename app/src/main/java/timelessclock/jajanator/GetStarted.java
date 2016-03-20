@@ -50,9 +50,4 @@ public class GetStarted extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    private void testGit(){
-        int i;
-        i = 95;
-
-    }
 }
